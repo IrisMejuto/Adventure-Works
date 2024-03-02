@@ -11,3 +11,7 @@ The Power BI project for Adventure Works offers a quick insight into cycling-rel
 * ✅ Which cycling product categories are exceeding or falling short of sales targets?
 * ✅ How do different sales channels affect the overall performance of cycling products?
 * ✅ What impact do returns of cycling products have on profitability?
+
+
+
+https://app.powerbi.com/groups/me/reports/e34e63bc-7eee-47c5-9d31-8785cc5bba3a/ReportSection3e6acac007089544ba30?experience=power-bi&clientSideAuth=0 
