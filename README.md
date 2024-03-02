@@ -13,5 +13,10 @@ The Power BI project for Adventure Works offers a quick insight into cycling-rel
 * ✅ What impact do returns of cycling products have on profitability?
 
 
+The treatment process, data cleaning as well as visualization has been done in Power BI
 
-https://app.powerbi.com/groups/me/reports/e34e63bc-7eee-47c5-9d31-8785cc5bba3a/ReportSection3e6acac007089544ba30?experience=power-bi&clientSideAuth=0 
+### The Dataset that I have used for this project is taken from 👉🏼AdventureWorksDataSet
+
+
+### You can access the dashboard made in Power BI at the following link 👉🏼
+
