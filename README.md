@@ -1,7 +1,7 @@
 # Adventure-Works
 The Power BI project for Adventure Works offers a quick insight into cycling-related product sales and operational performance, enabling data-driven decisions.
 
-⭐ ## Key questions the project answers:
+ ## ⭐ Key questions the project answers:
 
 * ✅ What are the top and bottom-selling cycling products in the past year?
 * ✅ How are sales of cycling products distributed across regions, and which regions are the most profitable?
