@@ -1,5 +1,8 @@
 # Adventure-Works
 
+<div align="left">
+<img src="https://github.com/Siri0cra/Adventure-Works/blob/main/AW_Logo.png" alt="Logo" width="500" height="400">
+</div>
 
  ## ⭐ Key questions the project answers:
 
