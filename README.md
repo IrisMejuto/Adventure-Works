@@ -6,14 +6,27 @@
 
  ## ⭐ Key questions the project answers:
 
-* ✅ What are the top and bottom-selling cycling products in the past year?
-* ✅ How are sales of cycling products distributed across regions, and which regions are the most profitable?
-* ✅ What has been the monthly sales trend for cycling products over the past year? Are there seasonal patterns?
-* ✅ How does marketing expenditure correlate with sales revenue from cycling products?
-* ✅ How does the sales performance of cycling products compare to the same period last year?
-* ✅ Which cycling product categories are exceeding or falling short of sales targets?
-* ✅ How do different sales channels affect the overall performance of cycling products?
-* ✅ What impact do returns of cycling products have on profitability?
+* **Overall performance:**
+* ✅ Have revenue and order goals been met this month?
+* ✅ What is the relationship between returns and monthly income?
+
+* **Product analysis:**
+* ✅ Which products generate the most sales and which are most profitable?
+* ✅ What is the rate of return on these products and how does it vary by category?
+
+* **Customer Behavior:**
+* ✅ What is the demographic profile of customers?
+* ✅ What age group, educational level, or marital status accounts for the majority of sales?
+* ✅ What demographic spends the most on average per order?
+
+* **Performance by region:**
+* ✅ How are sales distributed across different regions or territories?
+* ✅ Which region generated the most revenue this month?
+* ✅ How do return rates compare between regions?
+
+* **Time and trend analysis:**
+* ✅ How have sales and returns fluctuated over time?
+* ✅ Are there specific periods of time with especially high or low performance?
 
 
 The treatment process, data cleaning as well as visualization has been done in **Power BI**
