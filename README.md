@@ -6,25 +6,25 @@
 
  ## ⭐ Key questions the project answers:
 
-* **Overall performance:**
+ **Overall performance:**
 * ✅ Have revenue and order goals been met this month?
 * ✅ What is the relationship between returns and monthly income?
 
-* **Product analysis:**
+ **Product analysis:**
 * ✅ Which products generate the most sales and which are most profitable?
 * ✅ What is the rate of return on these products and how does it vary by category?
 
-* **Customer Behavior:**
+ **Customer Behavior:**
 * ✅ What is the demographic profile of customers?
 * ✅ What age group, educational level, or marital status accounts for the majority of sales?
 * ✅ What demographic spends the most on average per order?
 
-* **Performance by region:**
+ **Performance by region:**
 * ✅ How are sales distributed across different regions or territories?
 * ✅ Which region generated the most revenue this month?
 * ✅ How do return rates compare between regions?
 
-* **Time and trend analysis:**
+ **Time and trend analysis:**
 * ✅ How have sales and returns fluctuated over time?
 * ✅ Are there specific periods of time with especially high or low performance?
 
