@@ -29,7 +29,8 @@ The data modeling stage involved creating a relational data model that reflects 
  ## ❓Key questions the project answers:
 
  **Overall performance:**
-* ✅ Have revenue and order goals been met this month?
+* ✅ Have revenue goals been met this month?
+* ✅ Have order goals been met this month?
 * ✅ What is the relationship between returns and monthly income?
 
  **Product analysis:**
@@ -55,7 +56,10 @@ The data has revealed that:
 
 **Overall performance:**
 
-* ✅ Have revenue and order goals been met this month?
+* ✅ Have revenue goals been met this month?
+* - Se ha superado el target en 3.31%
+* ✅ Have order goals been met this month?
+* - Se ha quedado por debajo del goal un -0.88%
 * ✅ What is the relationship between returns and monthly income?
 
 **Product analysis:**
