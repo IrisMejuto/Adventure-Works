@@ -4,6 +4,7 @@
 <img src="https://github.com/Siri0cra/Adventure-Works/blob/main/AW_Logo.png" alt="Logo" width="500" height="400">
 </div>
 
+## 🪟 Overview:
 
 In this project, carried out with Power BI, I examined the evolution of Adventure Works sales from 2015 to 2017 in countries such as: United States, Canada, France, Germany, Australia and United Kingdom.
 
@@ -12,6 +13,8 @@ For this I have used the Power BI tool, both for cleaning, modeling, exploring a
 My focus has been on deciphering sales trends across continents, identifying customer preferences and behaviours, and evaluating products with the highest return rates.
 
 The Dataset that I have used for this project is taken from 👉🏼🗃️ [AdventureWorksDataSet](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+
+## 🖇️ Model:
 
 The data modeling stage involved creating a relational data model that reflects the relationships between customers, sales, products, returns, and territories.
 
