@@ -54,39 +54,6 @@ The data modeling stage involved creating a relational data model that reflects 
 * ✅ How have sales and returns fluctuated over time?
 * ✅ Are there specific periods of time with especially high or low performance?
 
-## ⭐ Key Results:
-The data has revealed that:
-
-**Overall performance:**
-
-* ✅ Have revenue goals been met this month?
-* - Se ha superado el target en 3.31%
-* ✅ Have order goals been met this month?
-* - Se ha quedado por debajo del goal un -0.88%
-* ✅ What is the relationship between returns and monthly income?
-
-**Product analysis:**
-
-* ✅ Which products generate the most sales and which are most profitable?
-* ✅ What is the rate of return on these products and how does it vary by category?
-
-**Customer Behavior:**
-
-* ✅ What is the demographic profile of customers?
-* ✅ What age group, educational level, or marital status accounts for the majority of sales?
-* ✅ What demographic spends the most on average per order?
-
-**Performance by region:**
-
-* ✅ How are sales distributed across different regions or territories?
-* ✅ Which region generated the most revenue this month?
-* ✅ How do return rates compare between regions?
-
-**Time and trend analysis:**
-
-* ✅ How have sales and returns fluctuated over time?
-* ✅ Are there specific periods of time with especially high or low performance?
-
 
 ## 📊 Dashboard
 You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ4MTFmY2UtOTM3YS00ZjdhLWExZDgtZDUxMzI5OTdjNGZkIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
