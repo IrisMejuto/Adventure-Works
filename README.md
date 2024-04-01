@@ -1,7 +1,7 @@
 # Adventure-Works
 
-<div align="left">
-<img src="https://github.com/Siri0cra/Adventure-Works/blob/main/AW_Logo.png" alt="Logo" width="500" height="400">
+<div align="center">
+<img src="https://github.com/IrisMejuto/Adventure-Works/blob/main/Cover%20Adventure%20Works.jpg" alt="Logo" width="800" height="500">
 </div>
 
 ## 🪟 Overview:
