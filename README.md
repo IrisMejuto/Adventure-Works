@@ -1,8 +1,11 @@
 # Adventure-Works
 
 <div align="center">
-<img src="https://github.com/IrisMejuto/Adventure-Works/blob/main/Cover%20Adventure%20Works.jpg" alt="Logo" width="800" height="500">
+<img src="https://github.com/IrisMejuto/Adventure-Works/blob/main/Images/Cover%20Adventure%20Works.jpg" alt="Logo" width="800" height="500">
 </div>
+
+## 📊 Dashboard
+You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ4MTFmY2UtOTM3YS00ZjdhLWExZDgtZDUxMzI5OTdjNGZkIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
 
 ## 🪟 Overview:
 
@@ -55,7 +58,6 @@ The data modeling stage involved creating a relational data model that reflects 
 * ✅ Are there specific periods of time with especially high or low performance?
 
 
-## 📊 Dashboard
-You can access the dashboard made in Power BI at the following link 👉🏼📊 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ4MTFmY2UtOTM3YS00ZjdhLWExZDgtZDUxMzI5OTdjNGZkIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
+
 
 
